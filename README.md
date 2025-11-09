@@ -179,6 +179,8 @@ mvn clean test
 ``` sh
 mvn spring-boot:run
 ```
+Or in InteliJ simply open the file SudokuApiApplication and press the play button
+
 
 ### Build JAR:
 
